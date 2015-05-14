@@ -1,3 +1,4 @@
 # Dynamite-Git-Example
 Learning Git and SourceTree
-Somo initial changes
+Some initial changes
+not experimental
